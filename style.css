@@ -1,0 +1,18 @@
+body {
+  margin: 20px;
+  font-family: "Lato";
+  font-weight: 300;
+  display: grid;
+  gap: 1rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+img {
+  width: 800px;
+  height: 800px;
+}
+
+img.demo-image {
+  background: #ececec;
+}
